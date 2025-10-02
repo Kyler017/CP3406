@@ -1,4 +1,3 @@
-Pet Health Tracker App
 #🚀 Overview
 Simple Android app (Jetpack Compose) for pet owners to track health, vet visits, shots, walks, and meals. Sends reminders and tips. Personal project 'cause I worry about my own pet forgetting stuff – like phone reminders, but for pups!
 From CP3406 Task 1 Planning Doc. Targets new/pro dog owners (flexible for others).
